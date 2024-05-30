@@ -2,7 +2,7 @@
   "homepage": "https://mgahed.github.io/investment-calculator/",
   "name": "investment-calculator",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
